@@ -1,0 +1,33 @@
+h1 {
+  color: crimson;
+}
+body {
+  font-family: sans-serif;
+}
+h2 {
+  color: rgb(44, 79, 184);
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+html {
+  scroll-behavior: smooth;
+}
+iframe {
+  width: 80%;
+  height: 400px;
+}
+h3 {
+  color: rgb(196, 112, 197);
+}
+h4 {
+  color: rgb(82, 51, 111);
+}
+h5 {
+  color: rgb(195, 171, 84);
+}
+h6 {
+  color: rgb(24, 209, 147);
+}
